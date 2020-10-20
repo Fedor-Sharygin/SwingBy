@@ -1,0 +1,16 @@
+{
+  "Transform": {
+    "Position": [ 0, 0, 0 ],
+    "Size": [ 10, 10, 10 ],
+    "Spin": 0,
+    "Tilt": 0,
+    "Yaw": 0
+  },
+  "Shape": "..//Resources//models//sara//sara-20110310-blender//Sara_20110310.obj",
+  "AABB": {
+    "center": [ 0, 10 ],
+    "width": 0.5,
+    "height": 1.5
+  }
+
+}

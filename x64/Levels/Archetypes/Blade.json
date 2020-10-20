@@ -1,0 +1,18 @@
+{
+  "Transform": {
+    "Position": [ 0, 0, 0 ],
+    "Size": [ 1, 1, 2 ],
+    "Spin": 0,
+    "Tilt": 0,
+    "Yaw": 0
+  },
+  "Shape": "..//Resources//models//blade_machete//blade_machete//machete.obj",
+  "Circling": {
+    "rotSpeed": 100
+  },
+  "Line": {
+    "start": [ 0, 0 ],
+    "length": 4.48,
+    "tilt": 90
+  }
+}

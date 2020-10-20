@@ -1,0 +1,3 @@
+﻿  Physics.cpp
+C:\Users\sharygin.t\Desktop\SwingBy\SwingBy\Components\Physics.cpp(104,26): warning C4305:  'initializing': truncation from 'double' to 'float'
+  SwingBy.vcxproj -> C:\Users\sharygin.t\Desktop\SwingBy\SwingBy\x64\Debug\SwingBy.exe

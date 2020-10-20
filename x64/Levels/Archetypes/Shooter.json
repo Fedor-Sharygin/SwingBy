@@ -1,0 +1,14 @@
+{
+  "Transform": {
+    "Position": [ 0, 0, 0 ],
+    "Size": [ 10, 10, 10 ],
+    "Spin": 180,
+    "Tilt": 0,
+    "Yaw": 0
+  },
+  "Shape": "..//Resources//models//sara//sara-20110310-blender//Sara_20110310.obj",
+  "Shooter": {
+    "Wait time": 5,
+    "Clip": 1
+  }
+}

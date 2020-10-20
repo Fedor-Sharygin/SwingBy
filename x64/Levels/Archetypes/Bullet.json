@@ -1,0 +1,16 @@
+{
+  "Transform": {
+    "Position": [ 0, 0, 0 ],
+    "Size": [ 1, 1, 1 ],
+    "Spin": 0,
+    "Tilt": 180,
+    "Yaw": 0
+  },
+  "Shape": "..//Resources//models//bullet//bullet//lowpolybullet.obj",
+  "AABB": {
+    "center": [ 2, 0 ],
+    "width": 2,
+    "height": 1
+  }
+
+}

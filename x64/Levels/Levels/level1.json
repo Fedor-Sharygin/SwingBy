@@ -1,0 +1,61 @@
+{
+  "Finish Line": 1000,
+  "Player": {
+    "Transform": {
+      "Position": [ 0, 20, -40 ]
+    }
+  },
+  "Blade_1": {},
+  "Blade_2": {
+    "Transform": {
+      "Position": [ 0, 50, 100 ]
+    }
+  },
+  "Blade_3": {
+    "Transform": {
+      "Position": [ 0, -50, 500 ]
+    }
+  },
+  "Blade_4": {
+    "Transform": {
+      "Position": [ 0, 0, 700 ]
+    }
+  },
+  "Shooter_1": {
+    "Transform": {
+      "Position": [ 0, 100, 100 ]
+    }
+  },
+  "Shooter_2": {
+    "Transform": {
+      "Position": [ 0, 60, 800 ]
+    }
+  },
+  "Shooter_3": {
+    "Transform": {
+      "Position": [ 0, 30, 500 ]
+    },
+    "Shooter": {
+      "Clip": 3,
+      "Wait time": 10
+    }
+  },
+  "Booster_1": {
+    "Transform": {
+      "Position": [ 0, -60, 300 ],
+      "Tilt": 70
+    },
+    "Boost": {
+      "speed": [ 0, -100, 60 ]
+    }
+  },
+  "Booster_2": {
+    "Transform": {
+      "Position": [ 0, -100, 100 ],
+      "Tilt": 45
+    },
+    "Boost": {
+      "speed": [ 0, -200, 100 ]
+    }
+  }
+}

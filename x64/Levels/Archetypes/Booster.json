@@ -1,0 +1,18 @@
+{
+  "Transform": {
+    "Position": [ 0, 0, 0 ],
+    "Size": [ 30, 30, 30 ],
+    "Spin": 0,
+    "Tilt": 0,
+    "Yaw": 0
+  },
+  "Shape": "..//Resources//models//Arrow_Blend//Arrow_Blend//Blend//Arrow.obj",
+  "AABB": {
+    "center": [ 0, 0 ],
+    "width": 0.5,
+    "height": 0.5
+  },
+  "Boost": {
+    "speed": [ 0, 0, 50 ]
+  }
+}
